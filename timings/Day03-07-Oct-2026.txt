@@ -1,0 +1,8 @@
+# What I did today
+# 3 hour morning online class about the Linux commands
+# 1 practice the command in own laptop.
+# 1 Setup AWS and ec2 instance.
+# Attended evening session.
+
+#Tomorrow Task
+#Will learn Linux interview questions and answers.
