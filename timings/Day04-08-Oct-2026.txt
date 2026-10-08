@@ -1,0 +1,7 @@
+# What I did today
+# Attended a 3-hour morning online class on AWS class.
+# Practiced Linux commands and git commands.
+# Attended the evening session.
+
+#Tomorrow Task
+#Will continue to learn Docker.
