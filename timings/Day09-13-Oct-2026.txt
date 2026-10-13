@@ -1,0 +1,9 @@
+# What I did today
+# Attended a 3.5 - hour morning online class3 of Kubernet.
+# 2 hour - Study provided Kubernetes note and watch EKS release version updatation video.
+# 0.5 hour - Practice english.
+# 0.5 hour - Coding practice.
+# Attended the evening session.
+
+#Tomorrow Task
+#Will continue to learn remaining Kubernetes topics like Application Deployment/Installation on Kubernetes & Kubernetes Services & Verification.
