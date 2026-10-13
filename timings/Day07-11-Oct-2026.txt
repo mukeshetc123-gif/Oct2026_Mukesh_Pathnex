@@ -1,0 +1,9 @@
+# What I did today
+# Attended a 3.5 - hour morning online class on Kubernet.
+# 1 hour - Study provided Docker note.
+# 0.5 hour - Practice english.
+# 0.5 hour - Coding practice.
+# Attended the evening session.
+
+#Tomorrow Task
+#Will continue to learn remaining Kubernet topics.

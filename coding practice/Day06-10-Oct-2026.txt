@@ -1,0 +1,33 @@
+#Day06—DEBUG DAY (Fix these broken files)
+
+##Ansible (broken)
+
+- name Install nginx
+ hosts all
+ become yes
+ tasks:
+  -name: Install nginx
+  yum:
+    name nginx
+    state present
+
+##Terraform (broken)
+
+resource "aws_instance" "BrokenEC2" {
+  ami = "ami-0xyz"
+  instance_type = t2.micro
+tags {
+ Name = "Broken"
+}
+}
+
+##Kubernetes (broken)
+
+apiVersion v1
+kind Pod
+metadata:
+ name pathnex
+spec
+ containers:
+   - name app
+     image nginx
