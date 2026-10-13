@@ -1,0 +1,49 @@
+##Ansible — Install Packages Using Variables
+
+- name: Install packages for Pathnex using variables
+  hosts: all
+  become: yes
+
+  vars:
+    pathnex_packages:
+      - tree
+      - unzip
+      - vim
+
+  tasks:
+    - name: Install required packages
+      yum:
+        name: "{{ pathnex_packages }}"
+        state: present
+		
+##Terraform — Create VPC + Subnet
+
+provider "aws" {
+  region = "us-east-1"
+}
+
+resource "aws_vpc" "PathnexVPC" {
+  cidr_block = "10.10.0.0/16"
+
+  tags = {
+    Name = "Pathnex-VPC"
+  }
+}
+
+
+##Shell Script — Loop Through List
+
+#!/bin/bash
+
+for item in Pathnex DevOps Training; do
+  echo "Item: $item"
+done
+
+
+##Shell Script — Loop Through List
+
+#!/bin/bash
+
+for item in "Pathnex DevOps Training"; do
+  echo "Item: $item"
+done
