@@ -1,0 +1,9 @@
+# What I did today
+# Attended a 3.5 - hour morning online class of Helm.
+# 0.5 hour - Practice english.
+# 0.5 hour - Coding practice.
+# 1 hour - Study Helm document.
+# Attended the evening session.
+
+#Tomorrow Task
+#Will continue to learn remaining Argo CD.
