@@ -1,0 +1,9 @@
+# What I did today
+# Attended a 3.5 - hour morning online class of Terraform.
+# 0.5 hour - Practice english.
+# 0.5 hour - Coding practice.
+# 1 hour - Study ArgoCD provided document.
+# Attended the evening session.
+
+#Tomorrow Task
+#Will continue to learn Terraform hands-on practicals.
