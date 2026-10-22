@@ -1,0 +1,9 @@
+# What I did today
+# Attended a 3 - hour morning online class of Ansible.
+# 0.5 hour - Practice english.
+# 0.5 hour - Coding practice.
+# 1 hour - Study the provided Ansible doc. 
+# Attended the evening session.
+
+#Tomorrow Task
+#Will continue to learn GitLab/Jenkins.
