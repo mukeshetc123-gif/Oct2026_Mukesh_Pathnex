@@ -1,0 +1,9 @@
+# What I did today
+# 3 hour -  Old (last batch) kafka video.
+# 0.5 hour - Practice english.
+# 0.5 hour - Coding practice.
+# 1 hour - Study the provided doc of Kafka.
+# Attended the evening session.
+
+#Tomorrow Task
+#Will continue to learn SSL Certificates/SRE/Security Tools.
